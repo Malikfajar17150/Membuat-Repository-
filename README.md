@@ -15,6 +15,8 @@ Belajar kelas Memulai Pemrograman dengan Java. Dan Github (Progres 30%)
     * Mengeksplorasi pada dashboard pada tampilan github 
     * Menganal apa yang ada dashboard pada github dan kegunaan nya  
     * Mengenal Get Commit pada git hub 
+    * Fungsi Get pada git hub dan Git lab 
+ 
 
 
 
